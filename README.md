@@ -9,3 +9,6 @@ Here is a quick look at the game:
 Every 3 seconds the card flips and then the user can then choose whether they knew the term by clicking the "check" button or if the term was unknown by clicking the "x" button.
 
 Here is also a sample of the file that tracks the game results:
+![Image](https://github.com/user-attachments/assets/829ebd5c-a69f-41b0-9b0c-ea8f6f8b30e2)
+
+Thanks for checking out my flashcard game. Run it yourself and test you French!
