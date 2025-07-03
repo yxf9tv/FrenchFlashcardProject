@@ -12,6 +12,7 @@ Each session is tracked and the results are shown in an additional file which al
 ![Image](https://github.com/user-attachments/assets/abdedab4-ab19-41ed-963f-41e2c8ce1f0a)
 
 **Here is also a sample of the file that tracks the game results:**
+
 ![Image](https://github.com/user-attachments/assets/829ebd5c-a69f-41b0-9b0c-ea8f6f8b30e2)
 
 Thanks for checking out my flashcard game. Run it yourself and test you French!
