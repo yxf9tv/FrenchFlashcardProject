@@ -1,4 +1,4 @@
-**French Flashcard Study Game**
+**French Flashcard Study Game - 100 Days of Code**
 
 This project contains the code to play a quick flashcard study game that quizzes the user on their French vocabulary. 
 
