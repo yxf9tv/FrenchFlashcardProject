@@ -15,4 +15,4 @@ Each session is tracked and the results are shown in an additional file which al
 
 ![Image](https://github.com/user-attachments/assets/829ebd5c-a69f-41b0-9b0c-ea8f6f8b30e2)
 
-Thanks for checking out my flashcard game. Run it yourself and test you French!
+Thanks for checking out my flashcard game. Run it yourself and test your French!
